@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Tcos::VERSION
   s.authors     = ["Hxmusic"]
   s.email       = ["hxmusic@foxmail.com"]
-  s.homepage    = "http://tcos"
+  s.homepage    = "https://github.com/TCnet/tcos.git"
   s.summary     = "one oa systeam"
   s.description = "one oa systeam"
   s.license     = "MIT"
